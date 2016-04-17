@@ -1,0 +1,5 @@
+These tools can be used to create icons from existing resources. 
+
+ani2ico.c - Extracts ICO file from Windows 95/98 animated cursor files (.ani). Compile with gcc -o ani2ico ani2ico.c
+
+pixel2svg - python script to convert png files to SVG files. Creates a square for each pixel. Use --squaresize=3 for a 96x96 icon.
